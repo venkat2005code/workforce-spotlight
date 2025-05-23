@@ -2,11 +2,14 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://venkat2005code.github.io/workforce-spotlight",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build && touch out/.nojekyll",
+    "deploy": "gh-pages -d out --dotfiles"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",

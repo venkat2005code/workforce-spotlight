@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "name": "Workforce Spotlight",
+    "description": "A Next.js application for workforce analytics",
+    "public": true
+  },
+  "source": {
+    "branch": "gh-pages",
+    "path": "/",
+    "configFilePath": "/.github/workflows/next-pages.yml"
+  }
+}
