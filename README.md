@@ -23,9 +23,6 @@ Workforce Spotlight is a modern web application built with Next.js that provides
 - IBM Cognos Analytics (embedded)
 - GitHub Pages for deployment
 
-## Deployment
-
-This application is deployed using GitHub Pages at [https://venkat2005code.github.io/workforce-spotlight/](https://venkat2005code.github.io/workforce-spotlight/)
 
 ## Getting Started
 
